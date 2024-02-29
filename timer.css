@@ -1,0 +1,44 @@
+
+body{
+    height:  100dvh;
+   background: black;
+   color: rgb(91, 104, 128);
+   font-family: 'virtual rave','poppins', sans-serif;
+}
+    #time{
+
+    width: auto;
+    font-size: 50px;
+    color: rgb(111, 115, 140);
+    padding-left: 500px;
+    margin-top: 30px;
+    
+}
+.iphone12{
+    height: 730px;
+    margin-top: -310px;
+    padding-left: -440px;
+    width: 510px;
+}
+.titanium{
+    font-weight: 350px;
+ color: transparent;
+    font-size: 90px;
+    padding-left: 460px;
+    margin-top: 100px;
+    margin-bottom: -10px;
+    /*-webkit-text-stroke: 2px #a9a6a6d2;*/
+    background: rgb(102, 102, 121);
+    background-clip: text;
+    -webkit-backdrop-clip: text ;
+    font-family: '  virtual rave';
+
+}
+.prem{
+   font-size: 20px;
+   padding-left: 490px;
+   padding-top: 0px;
+   
+
+}
+
